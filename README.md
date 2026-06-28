@@ -1,10 +1,4 @@
-Ah, that is completely my bad! Those `and` tags were internal citation markers that accidentally leaked directly into your text block. You are 100% right—they look incredibly messy for a professional portfolio.
 
-Let's fix that right now. Here is the completely sanitized, **100% clean official version** with absolutely zero system tags.
-
-Click the edit icon on your GitHub README, select everything, delete it, and paste this clean block in:
-
-```markdown
 # 📊 Tailwind Traders: End-to-End Sales Performance & Profitability Analytics Suite
 
 ## 🔗 Project Deliverables
